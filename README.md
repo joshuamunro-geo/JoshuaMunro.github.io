@@ -5,6 +5,8 @@ Hello there!
 
 I am a stable isotope geochemist pursuing a PhD at the University of Texas at Austin.
 
+<img src = "https://github.com/user-attachments/assets/7ce63a11-5491-4522-809a-259c0c944222" width = 400px />               <img src = "https://github.com/user-attachments/assets/d31b6dfc-49f9-49a8-8d98-0d90c7cddead" width = 400px />
+
 Born and raised in South Africa, I did my undergraduate degree in Geology and Chemistry at the University of the Witwatersrand, Johannesburg. I then moved to the University of Cape Town to do my 4th year and Masters degree under Prof Chris Harris, studying the H-O-C stable isotope geochemistry of the Phalaborwa Complex, South Africa. 
 
 ## Research
